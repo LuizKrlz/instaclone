@@ -9,4 +9,4 @@ Technologies
 - React Gesture Handler
 - React Navigation
 
-![Clone][images/insta.png]
+![Clone][https://github.com/luizkrlz/instaclone/raw/master/images/insta.png]
