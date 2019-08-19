@@ -1,6 +1,6 @@
 # Instaclone
 
-The idea was reactreating the instagram utilizing technologies like React and ReactNative.
+The idea was recreating the instagram utilizing technologies like React and ReactNative.
 
 Technologies
 
